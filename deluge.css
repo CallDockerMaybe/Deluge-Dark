@@ -38,7 +38,7 @@ input {
 }
 
 .ext-el-mask {
-    background-color: #181818;
+    background-color: #c5c5c5;
 }
 
 .ext-el-mask-msg {
@@ -879,7 +879,7 @@ ul.x-tab-strip-bottom{
     background-color:#fff;
 }
 .x-grid3 {
-    background-color:#181818;
+    background-color:#c5c5c5;
 }
 
 .x-grid-panel .x-panel-mc .x-panel-body {
@@ -1544,7 +1544,7 @@ td.x-date-mp-sep {
     //background-image: url(../images/gray/qtip/tip-anchor-sprite.gif);
 }
 .x-menu {
-    background-color:#181818;
+    background-color:#c5c5c5;
 	background-image: none;
 }
 
@@ -1740,7 +1740,7 @@ a.x-menu-item {
 
 .x-panel-body {
     border-color:#292929;
-    background-color:#181818;
+    background-color:#c5c5c5;
 }
 
 .x-panel-bbar .x-toolbar, .x-panel-tbar .x-toolbar {
@@ -1900,33 +1900,33 @@ a.x-menu-item {
 
 .x-window-bc {
 	background-image: none;
-	background-color: #181818;
+	background-color: #c5c5c5;
 }
 
 .x-window-bl {
 	background-image: none;
-	background-color: #181818;
+	background-color: #c5c5c5;
 }
 
 .x-window-br {
 	background-image: none;
-	background-color: #181818;
+	background-color: #c5c5c5;
 }
 
 .x-window-mc {
-    border-color:#181818;
+    border-color:#c5c5c5;
     font: normal 11px 'Roboto', tahoma,arial,helvetica,sans-serif;
-    background-color:#181818;
+    background-color:#c5c5c5;
 }
 
 .x-window-ml {
 	background-image: none;
-	background-color:#181818;
+	background-color:#c5c5c5;
 }
 
 .x-window-mr {
 	background-image: none;
-	background-color:#181818;
+	background-color:#c5c5c5;
 }
 
 .x-window-maximized .x-window-tc {
@@ -1950,16 +1950,16 @@ a.x-menu-item {
 }
 
 .x-window-plain .x-window-mc {
-    background-color: #181818;
-    border-color: #181818;
+    background-color: #c5c5c5;
+    border-color: #c5c5c5;
 }
 
 .x-window-plain .x-window-body {
-    border-color: #181818;
+    border-color: #c5c5c5;
 }
 
 body.x-body-masked .x-window-plain .x-window-mc {
-    background-color: #181818;
+    background-color: #c5c5c5;
 }
 .x-html-editor-wrap {
     border-color:#BCBCBC;
@@ -1992,7 +1992,7 @@ body.x-body-masked .x-window-plain .x-window-mc {
     background-color:#f0f0f0;
 }
 .x-border-layout-ct {
-    background-color:#181818;
+    background-color:#c5c5c5;
 }
 
 .x-accordion-hd {
