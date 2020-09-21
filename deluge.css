@@ -2079,11 +2079,11 @@ body.x-body-masked .x-window-plain .x-window-mc {
 }
 
 .x-list-over {
-    background-color:#202020;
+    background-color:#747474;
 }
 
 .x-list-selected {
-    background-color:#202020;
+    background-color:#747474;
 }
 
 .x-list-resizer {
@@ -2092,8 +2092,8 @@ body.x-body-masked .x-window-plain .x-window-mc {
 }
 
 .x-list-header-inner em.sort-asc, .x-list-header-inner em.sort-desc {
-    background: #202020;
-    border-color: #202020;
+    background: #747474;
+    border-color: #747474;
 }
 .x-slider-horz, .x-slider-horz .x-slider-end, .x-slider-horz .x-slider-inner {
     //background-image: url(../images/default/slider/slider-bg.png);
