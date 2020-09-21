@@ -38,7 +38,7 @@ input {
 }
 
 .ext-el-mask {
-    background-color: #c5c5c5;
+    background-color: #181818;
 }
 
 .ext-el-mask-msg {
@@ -322,7 +322,7 @@ ul.x-tab-strip-bottom{
 
 .x-tab-panel-body {
     border-color:#252525;
-    background-color:#181818;
+    background-color:#c5c5c5;
 }
 
 .x-tab-panel-body-top {
