@@ -2048,11 +2048,11 @@ body.x-body-masked .x-window-plain .x-window-mc {
 }
 
 .x-progress-bar {
-    background-color:#00ff99;
+    background-color:#00804d;
     background-image: none;
-    border-top-color:#00ff99;
-    border-bottom-color:#00ff99;
-    border-right-color:#00ff99;
+    border-top-color:#00804d;
+    border-bottom-color:#00804d;
+    border-right-color:#00804d;
 }
 
 .x-progress-text {
