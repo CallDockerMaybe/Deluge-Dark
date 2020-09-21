@@ -1969,15 +1969,15 @@ body.x-body-masked .x-window-plain .x-window-mc {
     //background-image: url(../images/default/editor/tb-sprite.gif);
 }
 .x-panel-noborder .x-panel-header-noborder {
-    border-bottom-color:#292929;
+    border-bottom-color:#747474;
 }
 
 .x-panel-noborder .x-panel-tbar-noborder .x-toolbar {
-    border-bottom-color:#353535;
+    border-bottom-color:#747474;
 }
 
 .x-panel-noborder .x-panel-bbar-noborder .x-toolbar {
-    border-top-color:#353535;
+    border-top-color:#747474;
 }
 
 .x-tab-panel-bbar-noborder .x-toolbar {
