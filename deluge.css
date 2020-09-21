@@ -8,7 +8,7 @@
 @import url('https://s.googleapis.com/css?family=Roboto');
 
 html {
-	background-color: #f8f8f8;
+	background-color:#747474;
 	color: #1a1a1a;
 	-family: 'Roboto', sans-serif !important;
 }
@@ -236,7 +236,7 @@ input {
 }
 
 .x-tab-panel-header, .x-tab-panel-footer {
-	background-color: #f8f8f8;
+	background-color:#747474;
 	border-color:#d0d0d0;
     overflow:hidden;
     zoom:1;
@@ -674,7 +674,7 @@ ul.x-tab-strip-bottom{
 
 .x-btn-tl, .x-btn-tr, .x-btn-tc, .x-btn-ml, .x-btn-mr, .x-btn-mc, .x-btn-bl, .x-btn-br, .x-btn-bc{
 	background-image: none;
-	background-color: #f8f8f8;
+	background-color:#747474;
 }
 
 .x-btn-click .x-btn-text, .x-btn-menu-active .x-btn-text, .x-btn-pressed .x-btn-text{
@@ -1056,7 +1056,7 @@ td.x-grid3-hd-over .x-grid3-hd-inner, td.sort-desc .x-grid3-hd-inner, td.sort-as
 }
 
 .x-grid3-hd-btn, a.x-grid3-hd-btn:hover {
-	background: linear-gradient(116deg, transparent 0%, transparent 0%, transparent 60%, #f8f8f8 60%), linear-gradient(244deg, #666 0%, #666 0%, #666 60%, transparent 60%);
+	background: linear-gradient(116deg, transparent 0%, transparent 0%, transparent 60%,#747474 60%), linear-gradient(244deg, #666 0%, #666 0%, #666 60%, transparent 60%);
     //background-color:#c5c5c5;
 	height: 6px !important;
     width: 8px;
@@ -1336,11 +1336,11 @@ td.x-grid3-hd-over .x-grid3-hd-inner, td.sort-desc .x-grid3-hd-inner, td.sort-as
 }
 
 .x-tree-node .x-tree-node-over {
-	background-color: #f8f8f8;
+	background-color:#747474;
 }
 
 .x-tree-node .x-tree-selected {
-	background-color: #f8f8f8;
+	background-color:#747474;
 }
 
 .x-tree-drop-ok-append .x-dd-drop-icon{
@@ -1575,7 +1575,7 @@ a.x-menu-item {
 
 .x-menu-item-active {
     background-image: none;
-	background-color: #f8f8f8;
+	background-color:#747474;
     border-color:#c5c5c5;
 }
 
@@ -1735,7 +1735,7 @@ a.x-menu-item {
     font-family: 'Roboto', tahoma,arial,verdana,sans-serif;
     border-color:#f8f8f8;
     background-image: none;
-	background-color: #f8f8f8;
+	background-color:#747474;
 }
 
 .x-panel-body {
@@ -1814,7 +1814,7 @@ a.x-menu-item {
 	width: 6px;
 	padding: 2px 3px;
 	border: 1px solid #444444;
-	background: linear-gradient(26deg, #f8f8f8 40%, #f8f8f8 40%, #f8f8f8 0%, transparent 0%), linear-gradient(154deg, #f8f8f8 40%, #666 40%, #666 100%, #f8f8f8 100%);
+	background: linear-gradient(26deg,#747474 40%,#747474 40%,#747474 0%, transparent 0%), linear-gradient(154deg,#747474 40%, #666 40%, #666 100%,#747474 100%);
 	background-clip: content-box;
 }
 
@@ -1823,7 +1823,7 @@ a.x-menu-item {
 	width: 6px;
 	padding: 2px 3px;
 	border: 1px solid #444444;
-	background: linear-gradient(-26deg, #f8f8f8 40%, #f8f8f8 40%, #f8f8f8 0%, transparent 0%), linear-gradient(-154deg, #f8f8f8 40%, #666 40%, #666 100%, #f8f8f8 100%);
+	background: linear-gradient(-26deg,#747474 40%,#747474 40%,#747474 0%, transparent 0%), linear-gradient(-154deg,#747474 40%, #666 40%, #666 100%,#747474 100%);
 	background-clip: content-box;
 }
 
@@ -1832,7 +1832,7 @@ a.x-menu-item {
 	width: 8px;
 	padding: 3px 2px;
 	border: 1px solid #444444;
-	background: linear-gradient(116deg, transparent 0%, transparent 0%, transparent 60%, #f8f8f8 60%), linear-gradient(244deg, #666 0%, #666 0%, #666 60%, transparent 60%);
+	background: linear-gradient(116deg, transparent 0%, transparent 0%, transparent 60%,#747474 60%), linear-gradient(244deg, #666 0%, #666 0%, #666 60%, transparent 60%);
 	background-clip: content-box;
 }
 
@@ -1841,7 +1841,7 @@ a.x-menu-item {
 	width: 8px;
 	padding: 3px 2px;
 	border: 1px solid #444444;
-	background: linear-gradient(116deg, #f8f8f8 40%, #f8f8f8 40%, #f8f8f8 0%, transparent 0%), linear-gradient(244deg, transparent 40%, #666 40%, #666 100%, transparent 100%);
+	background: linear-gradient(116deg,#747474 40%,#747474 40%,#747474 0%, transparent 0%), linear-gradient(244deg, transparent 40%, #666 40%, #666 100%, transparent 100%);
 	background-clip: content-box;
 }
 
@@ -1875,7 +1875,7 @@ a.x-menu-item {
 }
 
 .x-window-bwrap {
-	border: 1px solid #f8f8f8;
+	border: 1px solid#747474;
 }
 
 .x-window-tl .x-window-header {
@@ -1885,17 +1885,17 @@ a.x-menu-item {
 
 .x-window-tc {
 	background-image: none;
-	background-color: #f8f8f8;
+	background-color:#747474;
 }
 
 .x-window-tl {
 	background-image: none;
-	background-color: #f8f8f8;
+	background-color:#747474;
 }
 
 .x-window-tr {
 	background-image: none;
-	background-color: #f8f8f8;
+	background-color:#747474;
 }
 
 .x-window-bc {
