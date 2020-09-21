@@ -244,7 +244,7 @@ input {
 }
 
 .x-tab-panel-header, .x-tab-panel-footer {
-	border-color:#f8f8f8;
+	border-color:#747474;
 }
 
 ul.x-tab-strip-top{
@@ -321,7 +321,7 @@ ul.x-tab-strip-bottom{
 }
 
 .x-tab-panel-body {
-    border-color:#f8f8f8;
+    border-color:#747474;
     background-color:#c5c5c5;
 }
 
@@ -1708,11 +1708,11 @@ a.x-menu-item {
 }
 
 .x-combo-list-item {
-    border-color:#f8f8f8;
+    border-color:#747474;
 }
 
 .x-combo-list .x-combo-selected{
-	border-color:#f8f8f8 !important;
+	border-color:#747474 !important;
     background-color:#c5c5c5;
 }
 
@@ -1733,7 +1733,7 @@ a.x-menu-item {
 	font-weight:bold; 
     font-size: 11px;
     font-family: 'Roboto', tahoma,arial,verdana,sans-serif;
-    border-color:#f8f8f8;
+    border-color:#747474;
     background-image: none;
 	background-color:#747474;
 }
@@ -1744,7 +1744,7 @@ a.x-menu-item {
 }
 
 .x-panel-bbar .x-toolbar, .x-panel-tbar .x-toolbar {
-    border-color:#f8f8f8 !important;
+    border-color:#747474 !important;
 }
 
 .x-panel-tbar-noheader .x-toolbar, .x-panel-mc .x-panel-tbar .x-toolbar {
@@ -2003,7 +2003,7 @@ body.x-body-masked .x-window-plain .x-window-mc {
 
 .x-layout-collapsed{
     background-color:#f8f8f8;
-	border-color:#f8f8f8;
+	border-color:#747474;
 }
 
 .x-layout-collapsed-over{
