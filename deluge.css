@@ -5,12 +5,12 @@
  * http://www.sencha.com/license
  */
 
-@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import url('https://s.googleapis.com/css?family=Roboto');
 
 html {
 	background-color: #f8f8f8;
-	color: #cccccc;
-	font-family: 'Roboto', sans-serif !important;
+	color: #1a1a1a;
+	-family: 'Roboto', sans-serif !important;
 }
 
 input {
@@ -51,7 +51,7 @@ input {
     background-color: #eee;
     border-color:#d0d0d0;
     color:#222;
-    font:normal 11px 'Roboto', tahoma, arial, helvetica, sans-serif;
+    :normal 11px 'Roboto', tahoma, arial, helvetica, sans-serif;
 }
 
 .x-mask-loading div {
@@ -227,7 +227,7 @@ input {
 }
 
 .loading-indicator {
-    font-size: 11px;
+    -size: 11px;
     //background-image: url(../images/default/grid/loading.gif);
 }
 
@@ -275,7 +275,7 @@ ul.x-tab-strip-bottom{
 }
 
 .x-tab-strip-active span.x-tab-strip-text {
-	color:#cccccc;
+	color:#1a1a1a;
     font-weight:bold;
 }
 
@@ -462,7 +462,7 @@ ul.x-tab-strip-bottom{
 }
 
 .x-fieldset {
-    border-color:#cccccc;
+    border-color:#1a1a1a;
 }
 
 .x-fieldset legend {
@@ -1294,7 +1294,7 @@ td.x-grid3-hd-over .x-grid3-hd-inner, td.sort-desc .x-grid3-hd-inner, td.sort-as
 }
 
 .x-tree-node{
-	color:#cccccc;
+	color:#1a1a1a;
 	font: normal 11px 'Roboto', arial, tahoma, helvetica, sans-serif;
 }
 
@@ -1303,11 +1303,11 @@ td.x-grid3-hd-over .x-grid3-hd-inner, td.sort-desc .x-grid3-hd-inner, td.sort-as
 }
 
 .x-tree-node a, .x-dd-drag-ghost a{
-	color:#cccccc;
+	color:#1a1a1a;
 }
 
 .x-tree-node a span, .x-dd-drag-ghost a span{
-	color:#cccccc;
+	color:#1a1a1a;
 }
 
 .x-tree-node .x-tree-node-disabled a span{
@@ -1570,7 +1570,7 @@ td.x-date-mp-sep {
 }
 
 a.x-menu-item {
-	color:#cccccc;
+	color:#1a1a1a;
 }
 
 .x-menu-item-active {
